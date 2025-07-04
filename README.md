@@ -153,4 +153,5 @@ Feedstock Maintainers
 =====================
 
 * [@matthewfeickert](https://github.com/matthewfeickert/)
+* [@will-ockmore](https://github.com/will-ockmore/)
 
