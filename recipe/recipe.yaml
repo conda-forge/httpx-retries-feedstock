@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: httpx-retries
-  version: "0.5.0"
+  version: "0.6.0"
   python_min: "3.10"
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/httpx_retries-${{ version }}.tar.gz
-  sha256: d8c8e1e0852d84be3837aba0bcf78aeb89a4b77db95e8cc988c8c058830b3044
+  sha256: 3e0b404969a564829d368417964fd21e6b400a10d17c92d29b8bc247ce8186e3
 
 build:
   number: 0
